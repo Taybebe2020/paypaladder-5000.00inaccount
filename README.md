@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)$$$taylove2021@gmail Link building ay2020 needed account registration
+[Link](url) and ![Image](src)$$$wecare820@gmail.com Link building ay2020 needed account registration
 
 ```
 
